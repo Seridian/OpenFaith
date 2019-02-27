@@ -1,3 +1,4 @@
+## The Essence
 1. The world that we live in is a gift to all of God's creations. It is a place full of wonders that we are to explore and try to 
 understand and that we are to cherish and consider precious.
 
@@ -35,6 +36,8 @@ as they cause no harm.
 16. We are to know that God feels all of our suffering as we are part of Him and He is part of us.  
 
 17. God will forgive all that we truly regret.
+
+-----
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
 To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
