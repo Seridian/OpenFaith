@@ -5,7 +5,7 @@ It does not involve hundreds of rules, preached by a Church you visit every Sund
 
 As a child I started to get the feeling that the things that were preached to me had little to do with the true love of God. Many times I have wondered, _"Why do people use a book of love to preach so much hate and fear?"_
 
-I have come to see these books of love as stories God tells as father to His children, still to young to understand the real world, warning us of monsters in the forest so we don't run off and get lost. But we have gotten lost in the interpretation of these stories and lost the essence of what God's word. 
+I have come to see these books of love as stories God tells as father to His children, still to young to understand the real world, warning us of monsters in the forest so we don't run off and get lost. But we have gotten lost in the interpretation of these stories and lost the essence of God's word. 
 
 As a child I made the choice to keep my faith but leave my church. After getting lost in the endlessly varying interpretations of translations of books written in a context so different from today, I decided to write down the essence of my faith on a single page as my source of guidance in life.
 
