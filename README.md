@@ -14,6 +14,6 @@ I believe faith is not something that should be owned by any institutions. God's
 
 I entrust these values I live by to you in good faith. Anyone can fork and collaborate and keep the wording of these values relevant for the era we live in and true to the love of God.
 
-[https://github.com/Seridian/OpenFaith/tree/master](https://github.com/Seridian/OpenFaith/tree/master)
+[https://github.com/Seridian/OpenFaith/blob/master/Essence.md](https://github.com/Seridian/OpenFaith/blob/master/Essence.md)
 
 -- Seridian
