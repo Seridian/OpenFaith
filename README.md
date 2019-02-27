@@ -12,7 +12,7 @@ As a child I made the choice to keep my faith but leave my church. After getting
 ## Open Faith
 I believe faith is not something that should be owned by any institutions. God's love lives in us all and belongs to us all and it is something I hope we all get to experience some time in our life. So I decided to upload the essence of my faith, in my words, licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-I entrust these values I live by to you in good faith. Anyone can fork and collaborate and keep the wording of these values relevant for the era we live in and true to the love of God.
+I entrust these values I live by to you in good faith. Anyone can branch, fork and collaborate to keep the wording of these values relevant for the era we live in and true to the love of God.
 
 [https://github.com/Seridian/OpenFaith/blob/master/Essence.md](https://github.com/Seridian/OpenFaith/blob/master/Essence.md)
 
